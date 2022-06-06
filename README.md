@@ -1,6 +1,6 @@
 # BenzínCraft 
 
-###### Aktuální verze: 1.2.2
+###### Aktuální verze: 1.2.3
 
 Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 
