@@ -1,11 +1,12 @@
 # BenzínCraft 
 
-###### Aktuální verze: 1.2.3
+###### Aktuální verze: 1.2.4
 
 Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 
-*_Aktuálně modpack obsahuje něco okolo **101 modů**, upozornuji, že ne všechny modý které se započítavají, muejí být módy přinašející nějaký obsah. Do počtu jsou započítávany také různé knihovni a API, které módy vyžadují ke spustění nebo ke správné funkčnosti._*
+*_Aktuálně modpack obsahuje něco okolo **120 modů**, upozornuji, že ne všechny modý které se započítavají, muejí být módy přinašející nějaký obsah. Do počtu jsou započítávany také různé knihovni a API, které módy vyžadují ke spustění nebo ke správné funkčnosti._*
 
+- AppleSkin (https://www.curseforge.com/minecraft/mc-mods/appleskin/)
 - Applied Energistics 2 (https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 - Aquaculture 2 (https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - AutoRegLib (https://www.curseforge.com/minecraft/mc-mods/autoreglib)
@@ -17,8 +18,12 @@ Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 - Budschie's Morph Mod (https://www.curseforge.com/minecraft/mc-mods/budschies-morph-mod)
 - Bookshelf (https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 - Botania (https://www.curseforge.com/minecraft/mc-mods/botania)
+- Building Wands (https://www.curseforge.com/minecraft/mc-mods/building-wands)
 - Cat Jammies (https://www.curseforge.com/minecraft/mc-mods/cat-jammies)
 - CB Multipart (https://www.curseforge.com/minecraft/mc-mods/cb-multipart)
+- Controlling (https://www.curseforge.com/minecraft/mc-mods/controlling/)
+- Clumps https://www.curseforge.com/minecraft/mc-mods/clumps
+- Connect Texture (https://www.curseforge.com/minecraft/mc-mods/ctm)
 - CodeChicken Lib (https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - CoFH Core (https://www.curseforge.com/minecraft/mc-mods/cofh-core/)
 - Configured (https://www.curseforge.com/minecraft/mc-mods/configured)
@@ -47,15 +52,19 @@ Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 - Immersive Engineering (https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - ImmersiveRailroading (https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
 - Industrial Foregoing (https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- Ice and Fire: Dragons (https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+- Ice and Fire: Dragonseeker (https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
 - Iron Chests (https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 - Jade (https://www.curseforge.com/minecraft/mc-mods/jade)
 - Just Enough Items (JEI) (https://www.curseforge.com/minecraft/mc-mods/jei)
 - JEI Integration (https://www.curseforge.com/minecraft/mc-mods/jei-integration)
-- JEI Professions (https://www.curseforge.com/minecraft/mc-mods/jei-professions)
 - JourneyMap (https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - Jumbo Furnace (https://www.curseforge.com/minecraft/mc-mods/jumbo-furnace)
-- Just Enough Calculation (https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
-- Just Enough Resources (JER) (https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- KubeJS (https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- KubeJS Create (https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
+- KubeJS Immersive Engineering (https://www.curseforge.com/minecraft/mc-mods/kubejs-immersive-engineering)
+- KubeJS Mekanism (https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)
+- KubeJs Thermal (https://www.curseforge.com/minecraft/mc-mods/kubejs-thermal)
 - Magnesium (https://www.curseforge.com/minecraft/mc-mods/sodium-reforged)
 - Mantle (https://www.curseforge.com/minecraft/mc-mods/mantle)
 - Macaw's Bridges (https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
@@ -68,7 +77,6 @@ Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 - Mekanism (https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - Mekanism Generators (https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - MineColonies (https://www.curseforge.com/minecraft/mc-mods/minecolonies)
-- MmmMmmMmmMmm (Target Dummy) (https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/)
 - Mob Grinding Utils (https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
 - Mouse Tweaks (https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - MultiBeds (https://www.curseforge.com/minecraft/mc-mods/multibeds)
@@ -89,16 +97,21 @@ Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
 - Project Red - Transmission (https://www.curseforge.com/minecraft/mc-mods/project-red-transmission)
 - Quark Oddities (https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
 - Quark (https://www.curseforge.com/minecraft/mc-mods/quark)
+- GraveStone Mod (https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/)
+- Storage Drawers (https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - Scorge (https://www.curseforge.com/minecraft/mc-mods/scorge/)
+- Simple Magnets (https://www.curseforge.com/minecraft/mc-mods/simple-magnets)
+- Supplementaries (https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+- Selene Lib (https://www.curseforge.com/minecraft/mc-mods/selene)
 - ShetiPhianCore (https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
 - Shrink (https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- Shutup Experimental Settings! (https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 - Simple Planes (https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - Small Ships (https://www.curseforge.com/minecraft/mc-mods/small-ships)
 - Structurize (https://www.curseforge.com/minecraft/mc-mods/structurize)
 - SuperMartijn642's Config Lib (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/)
 - SuperMartijn642's Core Lib (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/)
 - Tinkers Construct (https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/)
-- The Bumblezone (https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge/)
 - The Abyss II - The Other Side (https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii/)
 - Thermal Cultivation (https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
 - Thermal Expansion (https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/)
