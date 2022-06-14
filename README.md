@@ -5,7 +5,7 @@
 - TechnicPack: https://www.technicpack.net/modpack/benzincraft.1926029
 - CurseForge: https://www.curseforge.com/minecraft/modpacks/gascraft
 
-*_Currently, the modpack contains something like ** 120 mods **, please note that not all mods that count must be mods that bring some content. The number also includes various libraries and APIs that the modes require to run or to function properly._*
+*_Currently, the modpack contains something like **120 mods**, please note that not all mods that count must be mods that bring some content. The number also includes various libraries and APIs that the modes require to run or to function properly._*
 
 *   [JEI Integration (by SnowShock35)](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
 *   [MineColonies (by H3lay)](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
