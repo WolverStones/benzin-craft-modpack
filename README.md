@@ -2,8 +2,8 @@
 
 ###### Current version: 1.2.7
 
-TechnicPack: https://www.technicpack.net/modpack/benzincraft.1926029
-CurseForge: https://www.curseforge.com/minecraft/modpacks/gascraft
+- TechnicPack: https://www.technicpack.net/modpack/benzincraft.1926029
+- CurseForge: https://www.curseforge.com/minecraft/modpacks/gascraft
 
 *_Currently, the modpack contains something like ** 120 mods **, please note that not all mods that count must be mods that bring some content. The number also includes various libraries and APIs that the modes require to run or to function properly._*
 
