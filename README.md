@@ -1,10 +1,11 @@
-# BenzínCraft 
+# GasCraft/BenzínCraft 
 
-###### Aktuální verze: 1.2.4
+###### Current version: 1.2.7
 
-Odkaz ke stažení: https://www.technicpack.net/modpack/benzincraft.1926029
+TechnicPack: https://www.technicpack.net/modpack/benzincraft.1926029
+CurseForge: https://www.curseforge.com/minecraft/modpacks/gascraft
 
-*_Aktuálně modpack obsahuje něco okolo **120 modů**, upozornuji, že ne všechny modý které se započítavají, muejí být módy přinašející nějaký obsah. Do počtu jsou započítávany také různé knihovni a API, které módy vyžadují ke spustění nebo ke správné funkčnosti._*
+*_Currently, the modpack contains something like ** 120 mods **, please note that not all mods that count must be mods that bring some content. The number also includes various libraries and APIs that the modes require to run or to function properly._*
 
 *   [JEI Integration (by SnowShock35)](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
 *   [MineColonies (by H3lay)](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
