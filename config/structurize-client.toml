@@ -1,0 +1,4 @@
+#structurize.config.windowcachecap.comment
+#Range: 0 ~ 100
+windowCacheCap = 12
+
